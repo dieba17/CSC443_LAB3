@@ -15,8 +15,8 @@ function add($x, $y){
 
 $num1 = 11;
 $num2 = 15;
-$summ = add($num1, $num2)
-echo $summ;
+$summ = add($num1, $num2);
+echo "$num1 + $num2 = " . $summ;
 ?>
 </body>
 </html>
