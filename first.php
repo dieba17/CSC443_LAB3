@@ -10,6 +10,5 @@
 <?php
 echo "Hello world";
 ?>
-    <p><iframe src="http://localhost/Lab3/first.php" width="100%" height="700" style="border:none;"></iframe>/iframe></P></p>
 </body>
 </html>
